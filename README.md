@@ -1,6 +1,6 @@
 # Olá, sou o William Andrade 👨‍💻
 
-Sou desenvolvedor Android (em formação.... mas vou chegar lá, movido pela paixão em desenvolver e criar)
+Sou desenvolvedor Android (em formação.... mas vou chegar lá, movido pela satisfação em desenvolver e criar)
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
