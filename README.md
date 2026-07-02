@@ -5,7 +5,7 @@ Sou desenvolvedor Android (em formação.... mas vou chegar lá, movido pela sat
 
 ## ⚡ Habilidades
 - Desenvolvimento Android (Kotlin e Java)
-- Arquiteturas MVVM
+- Arquitetura MVVM
 - Clean Architecture
 - Injeção de dependências com Hilt
 - APis com Retrofit, Coroutines
