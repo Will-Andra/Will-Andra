@@ -11,8 +11,9 @@ Sou desenvolvedor Android (em formação.... mas vou chegar lá, movido pela sat
 - APis com Retrofit, Coroutines
 - Git e GitHub
 - Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel, Room)
+- Jetpack (Compose, ViewModel, Room, Flow)
 
 ## 📫 Entre em contato
 - andrade.willi@hotmail.com
+- Linkedin: https://www.linkedin.com/in/william-andrade-gomes-b4959b40/
 
