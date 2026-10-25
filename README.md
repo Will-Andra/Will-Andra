@@ -10,7 +10,7 @@ Sou desenvolvedor Android (em formação.... mas vou chegar lá, movido pela sat
 - Android Jetpack: ViewModel, Room, Navigation Compose
 - Asincronia & Reatividade: Kotlin Coroutines, StateFlow / SharedFlow
 - Injeção de Dependências: Hilt
-- Rede & APIs: Retrofit, OkHttp, AuthInterceptor, Consumo de APIs RESTful
+- Rede & APIs: Retrofit, OkHttp, Interceptor, Consumo de APIs RESTful
 - Persistência de Dados & Backend: Room, SQLite, Firebase, SQL
 - Ferramentas & Versionamento: Git, GitHub, Android Studio
 
